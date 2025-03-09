@@ -12,3 +12,5 @@ React Native for building cross-platform mobile apps.
 Expo Router for seamless navigation.
 ExerciseDB API for accessing a rich database of exercises.
 Feel free to contribute or fork this project to customize your fitness goals!
+
+![Fitness](https://github.com/user-attachments/assets/f3a0192e-3098-4d25-bfd7-1cdfe5851b90)
